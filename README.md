@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/Smirty8181/Bot-watch2gether/releases/latest"><img src="https://img.shields.io/github/v/release/Smirty8181/Bot-watch2gether?label=%D1%80%D0%B5%D0%BB%D0%B8%D0%B7&color=2ea44f" alt="Последний релиз" /></a>
   <img src="https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white" alt="Node.js 18+" />
-  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white" alt="React 19" />
   <img src="https://img.shields.io/badge/Socket.io-4-010101?logo=socket.io&logoColor=white" alt="Socket.io" />
   <img src="https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram&logoColor=white" alt="Telegram Bot" />
   <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License" />
