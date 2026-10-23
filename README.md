@@ -8,11 +8,21 @@
   <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License" />
 </p>
 
-Совместный просмотр видео в Telegram Mini App: комнаты, приглашения по коду, синхронный плеер, чат и управление ролями в реальном времени.
+<p align="center">
+  <img src="assets/preview.svg" alt="Project preview" width="1000" />
+</p>
 
-Бот: [t.me/sovmestniprosmotrbot](https://t.me/sovmestniprosmotrbot)
+<h3 align="center">Совместный просмотр видео в Telegram Mini App</h3>
 
-Репозиторий: [Smirty8181/Bot-watch2gether](https://github.com/Smirty8181/Bot-watch2gether)
+<p align="center">
+  Комнаты, приглашения по коду, синхронный плеер, чат и потоковая координация в реальном времени.
+</p>
+
+<p align="center">
+  <a href="https://t.me/sovmestniprosmotrbot">Бот в Telegram</a>
+  ·
+  <a href="https://github.com/Smirty8181/Bot-watch2gether">GitHub</a>
+</p>
 
 ## Что умеет проект
 
