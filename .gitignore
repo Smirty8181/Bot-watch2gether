@@ -1,0 +1,10 @@
+node_modules
+web/dist
+.env
+*.log
+.DS_Store
+Thumbs.db
+.vscode
+.idea
+data/media
+data/avatars
