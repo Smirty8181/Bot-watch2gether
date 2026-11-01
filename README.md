@@ -175,5 +175,5 @@ https://t.me/sovmestniprosmotrbot?start=КОД
 ---
 
 <p align="center">
-  Built with ❤️ for watching together.
+  Создано для совместного просмотра видео.
 </p>
