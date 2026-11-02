@@ -4,10 +4,16 @@ import { Lobby } from "./components/Lobby.jsx";
 import { Room } from "./components/Room.jsx";
 import { getStartRoom, getUser, haptic, initTelegram } from "./telegram.js";
 import { applyTheme, getTheme } from "./theme.js";
+import { StaticPreview } from "./components/StaticPreview.jsx";
 
 const LAST_ROOM = "wt-last-room";
+const STATIC_PREVIEW = import.meta.env.VITE_STATIC_PREVIEW === "true";
 
 export default function App() {
+  return STATIC_PREVIEW ? <StaticPreview /> : <LiveApp />;
+}
+
+function LiveApp() {
   const [user, setUser] = useState(null);
   const socketRef = useRef(null);
   const skipAuto = useRef(false);
